@@ -104,9 +104,23 @@
               "icon": "lucide-file",
               "title": "Basic Unix Command"
             }
+          },
+          {
+            "id": "bedcec78ef891d45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Basic Unix Command.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic Unix Command"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -179,7 +193,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -304,12 +319,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "51714f751eb5297d",
+  "active": "bedcec78ef891d45",
   "lastOpenFiles": [
+    "06 - Daily/20250807.md",
+    "03 - Resources/Basic Unix Command.md",
     "03 - Resources/CleanShot 2025-08-07 at 18.09.54@2x.png",
     "06 - Daily/20250629.md",
     "03 - Resources/lab assignment 2.md",
-    "06 - Daily/20250807.md",
     "99 - Meta/attachments/CleanShot 2025-08-05 at 11.56.43@2x.png",
     "99 - Meta/attachments/CleanShot 2025-08-05 at 11.55.19@2x.png",
     "99 - Meta/attachments/CleanShot 2025-08-05 at 11.53.02@2x.png",
@@ -319,8 +335,6 @@
     "99 - Meta/attachments/CleanShot 2025-08-05 at 11.46.20@2x.png",
     "99 - Meta/attachments/CleanShot 2025-08-05 at 11.45.32@2x.png",
     "99 - Meta/attachments/CleanShot 2025-08-05 at 11.44.26@2x.png",
-    "99 - Meta/attachments/CleanShot 2025-08-05 at 11.42.49@2x.png",
-    "03 - Resources/Basic Unix Command.md",
     "06 - Daily/20250805.md",
     "99 - Meta/attachments",
     "06 - Daily/20250804.md",

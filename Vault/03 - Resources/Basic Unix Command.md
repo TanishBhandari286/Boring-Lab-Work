@@ -374,4 +374,4 @@ rm means remove and -rf flag means forcefully and recursively
 
 i can work now i guess
 
-![[CleanShot 2025-08-07 at 18.09.54@2x.png]]
+![Screenshot](CleanShot%202025-08-07%20at%2018.09.54@2x.png)
