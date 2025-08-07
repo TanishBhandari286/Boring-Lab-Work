@@ -17,7 +17,7 @@
 The `uname` command displays the operating system of the machine.
 
 **Output:**
-![[../99 - Meta/attachments/CleanShot 2025-08-04 at 13.26.38@2x.png]]
+![Screenshot](../99%20-%20Meta/attachments/CleanShot%202025-08-04%20at%2013.26.38@2x.png)
 
 ---
 
@@ -34,7 +34,7 @@ Logname command gives you the name of the user logged into the system
 
 **Output:**
 
-![[CleanShot 2025-08-04 at 13.27.53@2x.png]]
+![Screenshot](CleanShot%202025-08-04%20at%2013.27.53@2x.png)
 ---
 
 #### iii. To Print the host name:
@@ -50,7 +50,7 @@ Hostname command gives you the hostname of your machine which u would have setup
 
 
 **Output:**
-![[CleanShot 2025-08-04 at 13.29.21@2x.png]]
+![Screenshot](CleanShot%202025-08-04%20at%2013.29.21@2x.png)
 
 
 ---
@@ -68,7 +68,7 @@ who command gives you the info about the logged in users and also the mode from 
 
 
 **Output:**
-![[CleanShot 2025-08-04 at 13.30.55@2x.png]]
+![Screenshot](CleanShot%202025-08-04%20at%2013.30.55@2x.png)
 
 
 ---
@@ -126,11 +126,11 @@ Displays the current date in the format:
 
 **Output:**
 
-![[CleanShot 2025-08-04 at 13.35.13@2x.png]]
+![Screenshot](CleanShot%202025-08-04%20at%2013.35.13@2x.png)
 
-![[CleanShot 2025-08-04 at 13.35.58@2x.png]]
+![Screenshot](CleanShot%202025-08-04%20at%2013.35.58@2x.png)
 
-![[CleanShot 2025-08-04 at 13.36.32@2x.png]]
+![Screenshot](CleanShot%202025-08-04%20at%2013.36.32@2x.png)
 
 ---
 
@@ -151,7 +151,7 @@ date +"%T"
 
 
 **Output:**
-![[CleanShot 2025-08-04 at 13.37.45@2x.png]]
+![Screenshot](CleanShot%202025-08-04%20at%2013.37.45@2x.png)
 
 
 ---
@@ -170,7 +170,7 @@ The `date` command displays the **current system date and time** in the default 
 
 **Output:**
 
-![[CleanShot 2025-08-04 at 13.38.42@2x.png]]
+![Screenshot](CleanShot%202025-08-04%20at%2013.38.42@2x.png)
 
 ---
 
@@ -187,7 +187,7 @@ Banner command in unix is used to display a text in enlarged format using ascii 
 
 
 **Output:**
-![[CleanShot 2025-08-04 at 13.40.10@2x.png]]
+![Screenshot](CleanShot%202025-08-04%20at%2013.40.10@2x.png)
 
 
 ---
@@ -206,7 +206,7 @@ Echo just prints the output , $ sign computes it as an expression and home is th
 
 **Output:**
 
-![[CleanShot 2025-08-04 at 13.41.32@2x.png]]
+![Screenshot](CleanShot%202025-08-04%20at%2013.41.32@2x.png)
 
 ---
 
@@ -223,7 +223,7 @@ mkdir creates a directory named `SAMPLE_NAME under the path it was called in our
 
 **Output:**
 
-![[CleanShot 2025-08-04 at 13.42.37@2x.png]]
+![Screenshot](CleanShot%202025-08-04%20at%2013.42.37@2x.png)
 
 ---
 
@@ -242,7 +242,7 @@ as mkdir creates a directory in the active path so first we cd into the sample n
 
 
 **Output:**
-![[CleanShot 2025-08-04 at 13.43.11@2x.png]]
+![Screenshot](CleanShot%202025-08-04%20at%2013.43.11@2x.png)
 
 
 ---
@@ -261,7 +261,7 @@ cd changes the active directory and places us in the desired directory
 
 **Output:**
 
-![[CleanShot 2025-08-04 at 13.45.59@2x.png]]
+![Screenshot](CleanShot%202025-08-04%20at%2013.45.59@2x.png)
 
 ---
 
@@ -278,7 +278,7 @@ if cd left empty or without flag it places u to the last directory your user has
 
 
 **Output:**
-![[CleanShot 2025-08-04 at 13.46.49@2x.png]]
+![Screenshot](CleanShot%202025-08-04%20at%2013.46.49@2x.png)
 
 
 ---
@@ -298,7 +298,7 @@ u can cd using both relative path and absolute path although for simplicity we a
 
 **Output:**
 
-![[CleanShot 2025-08-04 at 13.47.40@2x.png]]
+![Screenshot](CleanShot%202025-08-04%20at%2013.47.40@2x.png)
 
 ---
 
@@ -316,7 +316,7 @@ rm means remove and -rf flag means forcefully and recursively
 
 **Output:**
 
-![[CleanShot 2025-08-04 at 13.49.12@2x.png]]
+![Screenshot](CleanShot%202025-08-04%20at%2013.49.12@2x.png)
 
 ---
 
@@ -334,7 +334,7 @@ as mkdir creates a directory in the active path so first we cd into the sample n
 
 **Output:**
 
-![[CleanShot 2025-08-04 at 13.50.49@2x.png]]
+![Screenshot](CleanShot%202025-08-04%20at%2013.50.49@2x.png)
 
 ---
 
@@ -352,7 +352,7 @@ cd .. takes u to the just previous directory relative to your active directory
 
 **Output:**
 
-![[CleanShot 2025-08-04 at 13.51.40@2x.png]]
+![Screenshot](CleanShot%202025-08-04%20at%2013.51.40@2x.png)
 
 ---
 
@@ -369,9 +369,9 @@ rm means remove and -rf flag means forcefully and recursively
 
 
 **Output:**
-![[CleanShot 2025-08-04 at 13.52.20@2x.png]]
+![Screenshot](CleanShot%202025-08-04%20at%2013.52.20@2x.png)
 
 
 i can work now i guess
-![[CleanShot 2025-08-07 at 18.18.17@2x.png]]
+![Screenshot](CleanShot%202025-08-07%20at%2018.18.17@2x.png)
 

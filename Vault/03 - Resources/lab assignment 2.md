@@ -12,7 +12,7 @@
 touch myfile_NAME yourfile_NAME
 ```
 **output:**  
-![[CleanShot 2025-08-05 at 11.17.20@2x.png]]
+![Screenshot](CleanShot%202025-08-05%20at%2011.17.20@2x.png)
 ---
 
 
@@ -24,7 +24,7 @@ touch myfile_NAME yourfile_NAME
 cat myfile_NAME yourfile_NAME
 ```
 **output:**  
-![[CleanShot 2025-08-05 at 11.18.11@2x.png]]
+![Screenshot](CleanShot%202025-08-05%20at%2011.18.11@2x.png)
 
 ---
 
@@ -37,7 +37,7 @@ echo >> This is line 1 >> myfile_NAME
 echo >> This is lline 2 >> yourfile_NAME
 ```
 **output:**  
-![[CleanShot 2025-08-05 at 11.19.52@2x.png]]
+![Screenshot](CleanShot%202025-08-05%20at%2011.19.52@2x.png)
 
 ---
 
@@ -49,7 +49,7 @@ echo >> This is lline 2 >> yourfile_NAME
 nvim .bashrc
 ```
 **output:**  
-![[CleanShot 2025-08-05 at 11.20.31@2x.png]]
+![Screenshot](CleanShot%202025-08-05%20at%2011.20.31@2x.png)
 ---
 
 ## q5  
@@ -60,7 +60,7 @@ nvim .bashrc
 echo > myfile_NAME emp_NAME
 ```
 **output:**  
-![[CleanShot 2025-08-05 at 11.22.13@2x.png]]
+![Screenshot](CleanShot%202025-08-05%20at%2011.22.13@2x.png)
 ---
 
 ## q6  
@@ -71,7 +71,7 @@ echo > myfile_NAME emp_NAME
 cp yourfile_NAME ~/os/dept_name
 ```
 **output:**  
-![[CleanShot 2025-08-05 at 11.28.10@2x.png]]
+![Screenshot](CleanShot%202025-08-05%20at%2011.28.10@2x.png)
 ---
 
 ## q7  
@@ -82,7 +82,7 @@ cp yourfile_NAME ~/os/dept_name
 cat emp_NAME dep_name > TRIAL_NAME
 ```
 **output:**  
-![[CleanShot 2025-08-05 at 11.30.43@2x.png]]
+![Screenshot](CleanShot%202025-08-05%20at%2011.30.43@2x.png)
 ---
 
 ## q8  
@@ -93,7 +93,7 @@ cat emp_NAME dep_name > TRIAL_NAME
 diff yourfile_NAME yourfile_NAME 
 ```
 **output:**  
-![[CleanShot 2025-08-05 at 11.31.49@2x.png]]
+![Screenshot](CleanShot%202025-08-05%20at%2011.31.49@2x.png)
 ---
 
 ## q9  
@@ -104,7 +104,7 @@ diff yourfile_NAME yourfile_NAME
  diff myfile_NAME emp_NAME 
  ```
 **output:**  
-![[CleanShot 2025-08-05 at 11.32.51@2x.png]]
+![Screenshot](CleanShot%202025-08-05%20at%2011.32.51@2x.png)
 ---
 
 ## q10  
@@ -116,7 +116,7 @@ echo "First new line" >> ./tanish.txt
 echo "Second new line" >> ./tanish.txt
 ```
 **output:**  
-![[CleanShot 2025-08-05 at 11.42.49@2x.png]]
+![Screenshot](CleanShot%202025-08-05%20at%2011.42.49@2x.png)
 ---
 
 ## q11  
@@ -127,7 +127,7 @@ echo "Second new line" >> ./tanish.txt
 diff employeename empname
 ```
 **output:**  
-![[CleanShot 2025-08-05 at 11.44.26@2x.png]]
+![Screenshot](CleanShot%202025-08-05%20at%2011.44.26@2x.png)
 ---
 
 ## q12  
@@ -138,7 +138,7 @@ diff employeename empname
 diff -u employeename empname
 ```
 **output:**  
-![[CleanShot 2025-08-05 at 11.45.32@2x.png]]
+![Screenshot](CleanShot%202025-08-05%20at%2011.45.32@2x.png)
 ---
 
 ## q13  
@@ -149,7 +149,7 @@ diff -u employeename empname
 rm -rf *
 ```
 **output:**  
-![[CleanShot 2025-08-05 at 11.46.20@2x.png]]
+![Screenshot](CleanShot%202025-08-05%20at%2011.46.20@2x.png)
 ---
 
 ## q14  
@@ -160,7 +160,7 @@ rm -rf *
 rm -rf <dir_name>
 ```
 **output:**  
-![[CleanShot 2025-08-05 at 11.47.00@2x.png]]
+![Screenshot](CleanShot%202025-08-05%20at%2011.47.00@2x.png)
 ---
 
 ## q15  
@@ -182,7 +182,7 @@ no command to retrieve it
 mv TRIAL_NAME DATA_NAME
 ```
 **output:**  
-![[CleanShot 2025-08-05 at 11.47.52@2x.png]]
+![Screenshot](CleanShot%202025-08-05%20at%2011.47.52@2x.png)
 
 ---
 
@@ -194,7 +194,7 @@ mv TRIAL_NAME DATA_NAME
 cp DATA_NAME ./TRIAL_NAME
 ```
 **output:**  
-![[CleanShot 2025-08-05 at 11.49.02@2x.png]]
+![Screenshot](CleanShot%202025-08-05%20at%2011.49.02@2x.png)
 ---
 
 ## q18  
@@ -208,7 +208,7 @@ added alias
 alias editbrew = nvim ~/.brewfile
 ```
 **output:**  
-![[CleanShot 2025-08-05 at 11.56.43@2x.png]]
+![Screenshot](CleanShot%202025-08-05%20at%2011.56.43@2x.png)
 ---
 
 ## q19  
@@ -219,7 +219,7 @@ alias editbrew = nvim ~/.brewfile
 ln star_NAME dummy_NAME
 ```
 **output:**  
-![[CleanShot 2025-08-05 at 11.53.02@2x.png]]
+![Screenshot](CleanShot%202025-08-05%20at%2011.53.02@2x.png)
 ---
 
 ## q20  
@@ -231,5 +231,5 @@ ln star_NAME dummy_NAME
 ln -s ../DATA_NAME/power_NAME dummy_NAME
 ```
 **output:**  
-![[CleanShot 2025-08-05 at 11.55.19@2x.png]]
+![Screenshot](CleanShot%202025-08-05%20at%2011.55.19@2x.png)
 ---
