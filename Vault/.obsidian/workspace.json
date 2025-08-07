@@ -179,7 +179,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -306,6 +307,8 @@
   },
   "active": "51714f751eb5297d",
   "lastOpenFiles": [
+    "06 - Daily/20250807.md",
+    "03 - Resources/lab assignment 2.md",
     "99 - Meta/attachments/CleanShot 2025-08-05 at 11.56.43@2x.png",
     "99 - Meta/attachments/CleanShot 2025-08-05 at 11.55.19@2x.png",
     "99 - Meta/attachments/CleanShot 2025-08-05 at 11.53.02@2x.png",
@@ -316,9 +319,7 @@
     "99 - Meta/attachments/CleanShot 2025-08-05 at 11.45.32@2x.png",
     "99 - Meta/attachments/CleanShot 2025-08-05 at 11.44.26@2x.png",
     "99 - Meta/attachments/CleanShot 2025-08-05 at 11.42.49@2x.png",
-    "99 - Meta/attachments/CleanShot 2025-08-05 at 11.32.51@2x.png",
     "03 - Resources/Basic Unix Command.md",
-    "03 - Resources/lab assignment 2.md",
     "06 - Daily/20250805.md",
     "99 - Meta/attachments",
     "06 - Daily/20250804.md",
