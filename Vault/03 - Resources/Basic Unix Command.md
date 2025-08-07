@@ -370,3 +370,8 @@ rm means remove and -rf flag means forcefully and recursively
 
 **Output:**
 ![[CleanShot 2025-08-04 at 13.52.20@2x.png]]
+
+
+i can work now i guess
+
+![[CleanShot 2025-08-07 at 18.09.54@2x.png]]

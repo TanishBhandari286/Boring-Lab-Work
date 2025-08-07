@@ -2,7 +2,7 @@
   "showInlineTitle": false,
   "autoPairMarkdown": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "99 - Meta/attachments",
+  "attachmentFolderPath": "./",
   "promptDelete": false,
   "userIgnoreFilters": [
     "99 - Meta/"

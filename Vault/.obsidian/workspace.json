@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/lab assignment 2.md",
+                "file": "03 - Resources/Basic Unix Command.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lab assignment 2"
+              "title": "Basic Unix Command"
             }
           }
         ],
@@ -179,8 +179,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -307,8 +306,10 @@
   },
   "active": "51714f751eb5297d",
   "lastOpenFiles": [
-    "06 - Daily/20250807.md",
+    "03 - Resources/CleanShot 2025-08-07 at 18.09.54@2x.png",
+    "06 - Daily/20250629.md",
     "03 - Resources/lab assignment 2.md",
+    "06 - Daily/20250807.md",
     "99 - Meta/attachments/CleanShot 2025-08-05 at 11.56.43@2x.png",
     "99 - Meta/attachments/CleanShot 2025-08-05 at 11.55.19@2x.png",
     "99 - Meta/attachments/CleanShot 2025-08-05 at 11.53.02@2x.png",
@@ -325,7 +326,6 @@
     "06 - Daily/20250804.md",
     "03 - Resources/Summary of class.md",
     "06 - Daily/20250731.md",
-    "06 - Daily/20250629.md",
     "03 - Resources/ONboarding Report.md",
     "03 - Resources/Cyber-rewritten-report.md",
     "03 - Resources/MDE_Onboarding_Report.markdown"

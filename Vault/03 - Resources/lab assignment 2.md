@@ -15,6 +15,7 @@ touch myfile_NAME yourfile_NAME
 ![[CleanShot 2025-08-05 at 11.17.20@2x.png]]
 ---
 
+
 ## q2  
 **a2**  
 **Question:** Display the files `myfile_NAME` and `yourfile_NAME`.  
