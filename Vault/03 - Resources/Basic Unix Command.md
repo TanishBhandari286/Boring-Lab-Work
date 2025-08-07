@@ -17,7 +17,7 @@
 The `uname` command displays the operating system of the machine.
 
 **Output:**
-![[CleanShot 2025-08-04 at 13.26.38@2x.png]]
+![[../99 - Meta/attachments/CleanShot 2025-08-04 at 13.26.38@2x.png]]
 
 ---
 
