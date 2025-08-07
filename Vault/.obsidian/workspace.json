@@ -1,0 +1,332 @@
+{
+  "main": {
+    "id": "e9ac3e7d785bfc20",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d57c85f5982b681",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "358b520f9416b58f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Cyber-rewritten-report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cyber-rewritten-report"
+            }
+          },
+          {
+            "id": "1d5bf85b906a61a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/20250629.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250629"
+            }
+          },
+          {
+            "id": "1927e9c33a1ff5b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/ONboarding Report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ONboarding Report"
+            }
+          },
+          {
+            "id": "f4d4f5290e5d5a67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/20250629.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250629"
+            }
+          },
+          {
+            "id": "a1988a32cf5c2782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Basic Unix Command.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic Unix Command"
+            }
+          },
+          {
+            "id": "229724ab627ecad3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/Basic Unix Command.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic Unix Command"
+            }
+          },
+          {
+            "id": "51714f751eb5297d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Resources/lab assignment 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lab assignment 2"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7070a73ad5097545",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b06268b65524a39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cbfbc7a0d983c87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "40102cde74a4b396",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "64d6b99f544e707c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "83732102bee164cb",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "544daa52483c5948",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ccb01a151a9d0257",
+    "type": "split",
+    "children": [
+      {
+        "id": "df41202778b89263",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b24878022bb337d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 - Resources/Cyber-rewritten-report.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cyber-rewritten-report"
+            }
+          },
+          {
+            "id": "1bc791c345525e5a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 - Resources/Cyber-rewritten-report.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cyber-rewritten-report"
+            }
+          },
+          {
+            "id": "d8a2d5d7d68a4c79",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e47a0b134225a22d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f8439d6d3b2c7768",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - Resources/Cyber-rewritten-report.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cyber-rewritten-report"
+            }
+          },
+          {
+            "id": "bc3a745b886b6428",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "zk-prefixer:Create new unique note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "51714f751eb5297d",
+  "lastOpenFiles": [
+    "99 - Meta/attachments/CleanShot 2025-08-05 at 11.56.43@2x.png",
+    "99 - Meta/attachments/CleanShot 2025-08-05 at 11.55.19@2x.png",
+    "99 - Meta/attachments/CleanShot 2025-08-05 at 11.53.02@2x.png",
+    "99 - Meta/attachments/CleanShot 2025-08-05 at 11.49.02@2x.png",
+    "99 - Meta/attachments/CleanShot 2025-08-05 at 11.47.52@2x.png",
+    "99 - Meta/attachments/CleanShot 2025-08-05 at 11.47.00@2x.png",
+    "99 - Meta/attachments/CleanShot 2025-08-05 at 11.46.20@2x.png",
+    "99 - Meta/attachments/CleanShot 2025-08-05 at 11.45.32@2x.png",
+    "99 - Meta/attachments/CleanShot 2025-08-05 at 11.44.26@2x.png",
+    "99 - Meta/attachments/CleanShot 2025-08-05 at 11.42.49@2x.png",
+    "99 - Meta/attachments/CleanShot 2025-08-05 at 11.32.51@2x.png",
+    "03 - Resources/Basic Unix Command.md",
+    "03 - Resources/lab assignment 2.md",
+    "06 - Daily/20250805.md",
+    "99 - Meta/attachments",
+    "06 - Daily/20250804.md",
+    "03 - Resources/Summary of class.md",
+    "06 - Daily/20250731.md",
+    "06 - Daily/20250629.md",
+    "03 - Resources/ONboarding Report.md",
+    "03 - Resources/Cyber-rewritten-report.md",
+    "03 - Resources/MDE_Onboarding_Report.markdown"
+  ]
+}
